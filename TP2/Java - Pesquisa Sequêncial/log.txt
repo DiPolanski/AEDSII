@@ -1,2 +1,0 @@
-Matricula \t tempo de execução \t comparações
-802736 \t 24521 ms \t 8000
