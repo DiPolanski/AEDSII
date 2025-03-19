@@ -1,0 +1,2 @@
+matricula \t número de comparaço˜oes \t númeero de movimentações \t tempo
+802736 \t 23445 \t 11205 \t 1687 milisegundos
